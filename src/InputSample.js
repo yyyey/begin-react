@@ -1,4 +1,4 @@
-import react, { useState, useRef } from 'react';
+import React, { useState, useRef } from 'react';
 
 function InputSample() {
 
